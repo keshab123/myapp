@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">myapp</string>
+    <string name="ftbl">football</string>
+    <string name="ftbl1">when was football invented?</string>
 </resources>
