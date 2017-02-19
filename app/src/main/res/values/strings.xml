@@ -2,4 +2,7 @@
     <string name="app_name">myapp</string>
     <string name="ftbl">football</string>
     <string name="ftbl1">when was football invented?</string>
+    <string name="a1">football</string>
+    <string name="a2">cricket</string>
+    <string name="a3">Sachin Tendulkar</string>
 </resources>
